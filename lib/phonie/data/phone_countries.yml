@@ -974,6 +974,9 @@
   :iso_3166_code: UZ
   :name: Uzbekistan
   :international_dialing_prefix: '810'
+  :area_code: '9\d|6[125679]|7[01234569]'
+  :local_number_format: \d{7}
+  :number_format: \d{9}
 -
   :country_code: '65'
   :national_dialing_prefix: None
