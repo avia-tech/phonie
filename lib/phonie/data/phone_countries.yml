@@ -649,9 +649,9 @@
   :iso_3166_code: AZ
   :name: Azerbaijan
   :international_dialing_prefix: '810'
-  :area_code: '[12]\d|40|44|50|51|55|60|70|77'
+  :area_code: '[12]\d|40|44|50|51|55|60|70|77|99'
   :local_number_format: \d{7}
-  :mobile_format: (40|44|50|51|55|60|70|77)\d{7}
+  :mobile_format: (40|44|50|51|55|60|70|77|99)\d{7}
   :number_format: \d{9}
 -
   :country_code: '852'
